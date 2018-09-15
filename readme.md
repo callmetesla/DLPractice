@@ -1,3 +1,3 @@
 # Deep learning practice
-**Done:**
+## **Done:**
 - MNIST classification
